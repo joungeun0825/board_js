@@ -12,6 +12,7 @@
   "type": "commonjs",
   "dependencies": {
     "express": "^4.17.3",
+    "express-handlebars": "^8.0.1",
     "mongodb": "^4.13.0"
   }
 }
